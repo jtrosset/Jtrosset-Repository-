@@ -1,0 +1,17 @@
+Education number, Highest education level achieved
+1, Preschool
+2, 1st - 4th grade
+3, 5th - 6th grade
+4, 7th - 8th grade
+5, 9th grade
+6, 10th grade
+7, 11th grade
+8, 12th grade
+9, HS graduate
+10, Some college
+11, Vocational Associate's degree
+12, Academic Associate's degree
+13, Bachelors degree
+14, Masters degree
+15, Professional degree
+16, Doctorate
